@@ -18,7 +18,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-	                            testng_mobile.xml
+	                            testng_web.xml
 	                        </suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
